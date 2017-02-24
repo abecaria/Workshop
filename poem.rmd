@@ -18,6 +18,11 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
+The three stood listening to a fresh access  
+Of wind that caught against the house a moment,  
+Gulped snow, and then blew free again-the Coles  
+Dressed, but dishevelled from some hours of sleep,  
+Meserve belittled in the great skin coat he wore.  
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
